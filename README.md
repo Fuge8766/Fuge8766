@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Java (Maven and Gradle), C++ and Js**
 
+- 😓 I'm currently busy on my school.
+
 - 📫 How to reach me **ngoyukhangfuge@gmail.com**
 
 
