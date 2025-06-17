@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fuge John</h1>
 <h3 align="center">A passionate fresh developer</h3>
 
-- 🔭 I’m currently working on [Java Chat Server Program](https://github.com/Fuge8766/Java-Chat-Server-Program.git)
-
-- 🌱 I’m currently learning **Java (Maven and Gradle), C++ and Js**
-
 - 😓 I'm currently busy on my school.
 
 - 📫 How to reach me **ngoyukhangfuge@gmail.com**
